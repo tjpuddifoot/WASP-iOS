@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E78B0AE9-CF5F-4B3B-A814-FE7F04E79885</string>
+	<key>IDESourceControlProjectName</key>
+	<string>WASP iOS</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>ED9A7086-CEE8-485C-97D9-25DCEC943B1E</key>
+		<string>https://github.com/tjpuddifoot/WASP-iOS.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>WASP iOS/WASP iOS.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>ED9A7086-CEE8-485C-97D9-25DCEC943B1E</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/tjpuddifoot/WASP-iOS.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>ED9A7086-CEE8-485C-97D9-25DCEC943B1E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>ED9A7086-CEE8-485C-97D9-25DCEC943B1E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>WASP iOS</string>
+		</dict>
+	</array>
+</dict>
+</plist>
